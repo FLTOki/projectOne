@@ -3,17 +3,41 @@ body
   font-style: italic;
 }
 
-.nav
+.navbar
 {
-  border: 1px;
-  border-radius: 5px;
-  text-align: center;
-  font-family: sans-serif;
-  font-style: normal;
-  font-weight: bolder;
-  font-size: 20px;
-  padding: 10px;
+  width: 100%;
+  overflow: auto;
 }
+.navbar a
+{
+  float: right;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.navbar a:hover
+{
+  background-color: white;
+}
+
+.active
+{
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px)
+{
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
 .image
 {
   /* width: 1000px; */
@@ -24,9 +48,21 @@ body
   background-repeat: no-repeat;
   background-size: cover;
 }
-.image-div
+.image-div h1
 {
-
+  font-weight: bolder;
+  font-size: 50px;
+  font-style: italic;
+  text-align: left;
+  color: white;
+}
+.image-div p
+{
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  color: white;
 }
 
 .headings
