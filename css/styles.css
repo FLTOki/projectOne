@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Teko:wght@500;700&family=Yatra+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 .navbar
 {
@@ -15,7 +16,7 @@
   text-decoration: none;
   font-size: 17px;
   font-weight: bold;
-  font-family: sans-serif;
+  font-family: 'Cinzel',sans-serif;
 }
 
 .navbar a:hover
