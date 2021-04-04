@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/black-wallpapers-32.jpg" alt="Logo" width="100" height="100">
+    <img src="images/port.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">PORTFOLIO</h3>
