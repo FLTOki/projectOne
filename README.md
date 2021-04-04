@@ -17,6 +17,20 @@
     ·
     <a href="#">Request Feature</a>
   </p>
+  
+   <details open="open">
+      <summary>TABLE OF CONTENTS</summary>
+      <ol>
+        <li>
+          <a href="#about-the-project">About The Project</a>
+          <ul>
+            <li><a href="#built-using">Built Using</a></li>
+          </ul>
+        </li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ol>
+    </details>
 </p>
 
 ## Author
