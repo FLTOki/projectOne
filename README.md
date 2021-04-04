@@ -19,13 +19,19 @@
   </p>
 </p>
 
-##Author
+## Author
 Built by: Musyoki Jim.
 
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/othneildrew/Best-README-Template">
+  <img src="images/port.png" alt="Logo" width="200" height="200">
+</a>
 
 It contains my background information, skills and hobbies and a few on the projects I have previously worked on.
+
+<a href="https://github.com/othneildrew/Best-README-Template">
+  <img src="images/code.png" alt="Logo" width="80" height="80">
+</a>
 
 ### Built Using
 I used the following resources in its development
@@ -37,5 +43,5 @@ I used the following resources in its development
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Jim Musyoki - [Email:](musyokijim@gmail.com)
-Project Link: [Portfolio link](fltoki.github.io/projectOne)
+* Jim Musyoki - [Email:](musyokijim@gmail.com)
+* Project Link: [Portfolio link](fltoki.github.io/projectOne)
