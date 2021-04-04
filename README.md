@@ -24,13 +24,13 @@ Built by: Musyoki Jim.
 
 ## About The Project
 <a href="https://github.com/othneildrew/Best-README-Template">
-  <img src="images/port.png" alt="Logo" width="800" height="800">
+  <img src="images/port.png" alt="Logo" width="800" height="600">
 </a>
 
-It contains my background information, skills and hobbies and a few on the projects I have previously worked on.
+It contains my background information, skills and hobbies and a few on the projects I have previously worked on. This is my first project as a student of Moringa School and I hope to build more and better ones.
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-  <img src="images/code.png" alt="Logo" width="800" height="800">
+  <img src="images/code.png" alt="Logo" width="800" height="600">
 </a>
 
 ### Built Using
