@@ -2,14 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/port.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PORTFOLIO</h3>
   <p align="center">
     This is my personal portfolio.
-    <br />
-    <br />
     <br />
     <a href="https://fltoki.github.io/projectOne">View Demo</a>
     ·
