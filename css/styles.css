@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Teko:wght@500;700&family=Yatra+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
 .navbar
 {
   width: 100%;
@@ -102,4 +102,59 @@
 .col-md-4 a:hover
 {
   background-color: white;
+}
+
+/* body {
+  background: #000;
+  margin: 0 auto;
+} */
+.social{
+  display: inline-flex;
+}
+/* .center {
+  display: table;
+  width: 100%;
+  height: 100vh;
+} */
+
+#social-test {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 30px;
+  h2 {
+    color: #fff;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-weight: 100;
+  }
+  .social {
+    padding-left: 10px;
+    display: inline-flex;
+  }
+  #li {
+    color: rgba(167, 146, 129, 0.6);
+    list-style-type: none;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    padding: 1%;
+    border: 1px solid rgba(167, 146, 129, 0.4);
+    cursor: pointer;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    transition: ease .3s;
+    &:hover {
+      color: rgba(167, 146, 129, 1);
+      border: 1px solid rgba(167, 146, 129, 1);
+    }
+  }
+}
+
+.social:hover #li {
+  opacity: 0.5;
+}
+
+.social:hover  #li:hover {
+  opacity: 1;
 }
