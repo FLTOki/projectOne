@@ -24,7 +24,7 @@ Built by: Musyoki Jim.
 
 ## About The Project
 
-It contains my background information, skills and hobbies and a few on the projects I have previously worked on. This is my first project as a student of Moringa School and I hope to build more and better ones.
+This is my first project as a student of Moringa School and I hope to build more and better ones. It contains my background information, skills and hobbies and a few on the projects I have previously worked on. 
 
 <a href="https://github.com/othneildrew/Best-README-Template">
   <img src="images/port.png" alt="Logo" width="800" height="600">
