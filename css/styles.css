@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+
+.body
+{
+  background-color: #D8D8D8;
+}
+
 .navbar
 {
   width: 100%;
@@ -41,7 +47,7 @@
 {
   /* width: 1000px; */
   height: 700px;
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/portfolio-background.jpeg');
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
