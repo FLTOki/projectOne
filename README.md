@@ -44,5 +44,5 @@ I used the following resources in its development
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-* Jim Musyoki - [Email:](musyokijim@gmail.com)
+* Jim Musyoki - [Email:](https://musyokijim@gmail.com)
 * Project Link: [Portfolio link](https://fltoki.github.io/projectOne)
