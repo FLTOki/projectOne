@@ -24,13 +24,13 @@ Built by: Musyoki Jim.
 
 ## About The Project
 <a href="https://github.com/othneildrew/Best-README-Template">
-  <img src="images/port.png" alt="Logo" width="200" height="200">
+  <img src="images/port.png" alt="Logo" width="800" height="800">
 </a>
 
 It contains my background information, skills and hobbies and a few on the projects I have previously worked on.
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-  <img src="images/code.png" alt="Logo" width="80" height="80">
+  <img src="images/code.png" alt="Logo" width="800" height="800">
 </a>
 
 ### Built Using
